@@ -1,16 +1,11 @@
-# quizzler
 
-A new Flutter project.
+# quizzing
 
-## Getting Started
+This is a basic quiz app.  You will be given different questions. Answer them by choosing either TRUE or FALSE. At the end of quiz you can see your score.![Uploading Screenshot (279).png…]()
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading Screenshot (278).png…]()
+![Uploading Screenshot (277).png…]()
+![Screenshot (280)](https://github.com/Abhishek8187/Quizzing/assets/72517135/6861cca6-17e9-4a82-93a8-e00650cffe2f)
+![Uploading Screenshot (279).png…]()
